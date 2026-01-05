@@ -1,6 +1,5 @@
 # Road-Accident-Data-Analysis
-This Road Accident Dashboard is an interactive analytical dashboard built entirely using Microsoft Excel to analyze road accident casualty data.
-The dashboard provides a clear, visual summary of total casualties, severity levels, vehicle types involved, road conditions, and environmental factors such as light and road surface.
+This project is focused on examining road accident casualty data to identify patterns related to accident severity, vehicle involvement, road types, surface conditions, location, and time trends. Using Microsoft Excel, the data was cleaned, analyzed, and transformed into meaningful KPIs, which were then visualized through an interactive dashboard. The project aims to support better understanding of accident risks and enable data-driven insights for safety analysis and decision-making.
 
 # Tools Used
 - MS Excel
