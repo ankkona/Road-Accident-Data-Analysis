@@ -5,8 +5,7 @@ The dashboard provides a clear, visual summary of total casualties, severity lev
 # Tools Used
 - MS Excel
 - Pivot Tables
-- Pivot Charts
-- Charts (Donut & Pie)
+- Pivot Charts(Donut & Pie)
 - Slicers & Timelines
 - Conditional Formatting
 
